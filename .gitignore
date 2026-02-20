@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+output/
+models/checkpoints/
+*.wav
+*.mp3
+*.m4a
+pipeline_testing/
